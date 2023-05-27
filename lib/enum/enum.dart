@@ -1,0 +1,1 @@
+enum NumPadButtonsType { delete, value }
