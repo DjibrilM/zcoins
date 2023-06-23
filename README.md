@@ -1,6 +1,6 @@
 # zcoin
 
-A new Flutter project.
+The following project consists of building a UI for a crypto wallet application, there is no functionality or any interaction with the blockchain world, it is just the UI.
 
 ## Getting Started
 
